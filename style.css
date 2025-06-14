@@ -55,7 +55,7 @@ header > p{
     font-size: small;
     font-family: var(--fonte-tres);
     padding: 21px 23px;
-    margin: auto;
+    margin: 20px auto;
     border-radius: 10px;
     text-shadow: 1px 2px 9px rgba(0, 0, 0, 0.486);
     box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.486);;
